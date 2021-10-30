@@ -17,7 +17,7 @@ uploads/*
 !uploads/blog/wellcome.jpg
 
 
-/vendor/*
+
 
 # IDE Files
 #-------------------------
